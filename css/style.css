@@ -1,0 +1,70 @@
+.banner_part{
+    padding: 10px 20px;
+}
+.banner_p{
+}
+.banner_img{
+    width: 500px;
+    
+}
+.buy_now{
+    width: 150px;
+    border: none;
+    border-radius: 15px;
+    background-color: #000000;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px 0px ;
+    text-align: center;
+
+}
+.dot_button{
+    background-image: linear-gradient(to right, #FF9C35,#ec9f4c);
+}
+.mid_img{
+    width: 70px;
+}
+.catagori_bg{
+    margin-bottom:80px ;
+}
+.card{
+    border: none;
+    margin-bottom: 30px
+}
+.items{
+   
+}
+.Smartphone{
+    text-transform: capitalize;
+    font-size: 30px;
+    font-weight: 500px;
+    margin-bottom: 50px;
+}
+.ft_ca_taitel{
+    text-align: center;
+    position: relative;
+}
+.ft_ca_taitel::after{
+    position: absolute;
+    width: 150px;
+    background-color: #ec9f4c;
+    height: 10px;
+    content: "";
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 35px;
+}
+.ft_items{
+   margin-top: 100px;
+   border: none;
+}
+.ft_second{
+    margin-bottom: 20px;
+}
+.ft_bag{
+    margin-top: 60px;
+}
+.place_shopping img{
+    width: 450px;
+}
